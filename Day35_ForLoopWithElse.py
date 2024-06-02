@@ -14,3 +14,11 @@ while j<7:
 
 else:
     print("Printing Else Statement")
+
+
+for x in range(5):
+    print("iteration of {} in for loop". format(x+1))
+else:
+    print("block in loop ")  
+
+print("out from loop")      
